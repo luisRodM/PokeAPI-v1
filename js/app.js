@@ -35,7 +35,7 @@ const fetchData = async(id) => {
     console.log(error);
   }
 }
-hola
+
 const pintarCard = (pokemon) => {
   console.log(pokemon)
   const template = document.getElementById("template-card").content;
